@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+ഞാൻ <a href=https://t.me/joinchat/ZLDkX7o8pWthZTE1>FILM🎬HOUSE</a> എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ് \n🔊Group: <a href=https://t.me/joinchat/ZLDkX7o8pWthZTE1>FILM🎬HOUSE</a> \n🔊ᴍᴏᴠɪᴇꜱ ᴜᴘᴅᴀᴛᴇꜱ: <a href=https://t.me/kl_films>KL_FILMS</a> | <a href=https://t.me/FilmHouse_2>Film🎬House_2</a> | <a href=https://t.me/SB_Movies1>SB🎬Movies</a> \n🔊ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://youtube.com/c/THCV20>💢 ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ 💢</a> \nMᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/SBKUNJAVA>Sʙ᭄𝕂𝕌ℕ𝕁𝔸𝕍𝔸࿐</a> | <a href=https://t.me/Film_House2>🔰ꜰɪʟᴍʜᴏᴜꜱᴇ🔰</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
